@@ -21,3 +21,10 @@ for(int i=0;i <2; i++){
 ```SQL
 SELECT * FROM Users;
 ```
+
+```Java
+void main()
+{
+  System.out.println("Hello World!");
+}
+```
