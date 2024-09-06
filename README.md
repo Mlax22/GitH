@@ -15,7 +15,8 @@ TP
 ```C++
 for(int i=0;i <2; i++){
 
-]
+}
+```
 
 ```SQL
 SELECT * FROM Users;
